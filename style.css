@@ -1,0 +1,23 @@
+.n{
+    color: gray !important;
+    margin-left: 800px;
+}
+.i{
+    display: flex;
+}
+h4{
+    color: gray;
+    font-weight: bold;
+}
+h5{
+    color: white;
+}
+p{
+    color: gray;
+}
+hr{
+    color: whitesmoke;
+}
+.m{
+    margin-left: 100px;
+}
